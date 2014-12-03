@@ -10,6 +10,7 @@ Fight against monsters, NPC pirates, and other players, if you can find them.
 * win loot
 * capture enemy soldiers for ransom, forced labor/service, or execution
 * conquer isles
+* command troops on land and ships at sea
 
 
 ## Industry ##
@@ -40,3 +41,13 @@ Alter the map to better suit your needs.
 * Connect rivers and towns with canals
 * Dredge rivers for faster and safer travel
 * Irrigate with auqueducts, canals, and wells
+
+
+## Travel ##
+
+Move around isles by land or sea, and enter strange realms through endlessly shifting Mists.
+
+* some isles can be protected, hidden from access by others, but they are the smallest and poorest.
+Every Heir starts with such an isle, but is not forced to stay or keep it protected.
+* certain ships, priests, and Mist Beacons can improve the chance of a mist leading to a desired destination
+* Mist Gates can be built to prevent a desirable Mist from shifting away, but they can also be broken
