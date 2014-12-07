@@ -12,6 +12,21 @@ Fight against monsters, NPC pirates, and other players, if you can find them.
 * conquer isles
 * command troops on land and ships at sea
 
+### Ships ###
+
+Ships must be captained by a player in order to sail.
+Different classes of ships also support varying numbers of subordinate officers and modifications to change their properties.
+
+* sail frigates, longboats, bi- and tri-remes in combat
+* harvest and haul riches with trawlers, barges, and tankers
+
+### Units ###
+
+Soldiers and other units can man defensive points on isles or aboard ships.
+
+* soldiers fight or operate fixed weapons
+* priests and engineers heal or provide technical bonuses
+
 
 ## Industry ##
 
