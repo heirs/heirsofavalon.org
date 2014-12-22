@@ -1,0 +1,26 @@
+{
+	"name": "heirsofavalon.org",
+	"version": "0.0.1",
+	"author": "David Ulrich <david@ulrichdev.com>",
+	"description": "Website for the Heirs of Avalon project",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/heirs/heirsofavalon.org.git"
+	},
+	"keywords": [
+		"heirs of avalon",
+		"markdown",
+		"coffeescript"
+	],
+	"dependencies" : {
+		"bluebird": "~2.2.2",
+		"consolidate": "~0.10.0",
+		"express": "~4.7.0",
+		"highlight.js": "~8.1.0",
+		"humanize-plus": "~1.4.2",
+		"lodash": "~2.4.0",
+		"marked": "~0.3.2",
+		"toffee": "~0.1.12"
+	},
+	"license": "AGPLv3"
+}

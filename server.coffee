@@ -30,7 +30,7 @@ rdr = new mkd.Renderer
 tof = require 'toffee'
 
 cfg = {
-	port: 4747
+	port: 4748
 }
 
 rdr.heading = (text,level) ->
