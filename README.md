@@ -1,10 +1,9 @@
-heirsofavalon.org
-=================
+# heirsofavalon.org #
 
 Website for the Heirs of Avalon project
 
-Copying
-=======
+
+# Copying #
 
 Copyright (C) 2014  David Ulrich (http://github.com/dulrich)
 
