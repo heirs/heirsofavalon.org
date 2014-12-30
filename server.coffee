@@ -34,7 +34,7 @@ cfg = {
 }
 
 rdr.heading = (text,level) ->
-	return "<h#{level}>&gt; #{text}</h#{level}>"
+	return "<h#{level}>&sect; #{text}</h#{level}>"
 
 mkd_opt = {
 	breaks: false
@@ -90,7 +90,7 @@ get_markdown = (page) ->
 
 make_title = (page) ->
 	title = hmz.titleCase page
-	"UlrichDev | #{title}"
+	"HoA | #{title}"
 
 render_page = (res,body,page) ->
 	res.render 'scaffold', {
