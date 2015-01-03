@@ -5,7 +5,7 @@ Website for the Heirs of Avalon project
 
 # Copying #
 
-Copyright (C) 2014  David Ulrich (http://github.com/dulrich)
+Copyright (C) 2014 - 2015  David Ulrich (http://github.com/dulrich)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
